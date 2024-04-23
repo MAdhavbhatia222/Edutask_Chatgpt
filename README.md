@@ -79,5 +79,3 @@ If you encounter issues:
 For more help or to report issues, please reach out to the support team via the repository's issues section or contact support through the project's website.
 
 ---
-
-This README provides a comprehensive guide to setting up and using EduTask for processing educational syllabi with advanced AI capabilities. Adjust any sections as necessary to match your specific project setup or additional configurations.
