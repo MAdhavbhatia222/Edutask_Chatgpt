@@ -23,8 +23,8 @@ Before you begin, make sure you have the following:
 2. **Clone the project repository**:
    Clone or download the repository to your local machine.
    ```bash
-   git clone <repository_url>
-   cd EduTask
+   git clone [Repository_url](https://github.com/MAdhavbhatia222/Edutask_Chatgpt/tree/main)
+   cd EduTask_Chatgpt
    ```
 
 
