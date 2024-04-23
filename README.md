@@ -18,6 +18,8 @@ Before you begin, make sure you have the following:
    You can install the library from PyPI or the GitHub repository.
    ```bash
    pip install unstructured
+   pip install langchain
+   pip install langchain_core
    ```
 
 2. **Clone the project repository**:
