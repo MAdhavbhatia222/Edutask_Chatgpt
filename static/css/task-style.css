@@ -1,0 +1,21 @@
+.hidden {
+    display: none !important;
+}
+.center-btn {
+    display: flex;
+    justify-content: center;
+}
+/* Custom CSS for table alignment */
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+.table thead th {
+    vertical-align: bottom;
+    text-align: center;
+}
+/* Loading message style */
+#loading-message {
+    text-align: center;
+    margin-top: 20px; /* Adjust spacing as needed */
+}

@@ -1,0 +1,13 @@
+#typing-message, #loading-messages {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px; /* Increase font size */
+}
+#skip-btn {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+}
+.hidden {
+    display: none !important;
+}
