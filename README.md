@@ -2,6 +2,11 @@
 
 #### Project Overview
 
+
+https://github.com/MAdhavbhatia222/Edutask_Chatgpt/assets/32282603/350ed1ff-7d20-4f0a-97f8-6ec68177889f
+
+
+
 EduTask is designed to process and analyze educational syllabi by leveraging the power of a vector database integrated with a large language model. This application helps in extracting, cleaning, and transforming PDF documents into a format suitable for enhanced querying and retrieval. The end goal is to utilize the preprocessed data in a Retrieval Augmented Generation (RAG) system to provide contextual support to the language model and generate tasks out of syllabus.
 
 #### Prerequisites
